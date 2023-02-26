@@ -46,10 +46,10 @@ Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs.
 <br />
 
 <p>
-<img src="https://i.imgur.com/b3clzyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l4JQgVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install/Enable Internet "Internet Information Services" (IIS) in windows: control panel --> programs --> Turn Windows features on or off --> check box titled "Internet Information Services". IIS is a windows server in which OsTicket requires to be enabled in order to run properly, even though OsTicket runs through the web browser.
+Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) and Download and install Rewrite Module (rewrite_amd64_en-US.msi)
 </p>
 <br />
 
