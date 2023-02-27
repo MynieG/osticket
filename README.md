@@ -175,7 +175,7 @@ Refresh the osTicket site in your browse, observe the changes
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/h0PUl8q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Continue Setting up osTicket in the browser (click Continue)
