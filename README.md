@@ -192,6 +192,10 @@ Default email (receives email from customers)
 </p>
 <p>
 Download and install HeidiSQL.
+Create a new session, root/
+Connect to the session
+Create a database called “osTicket
+
 </p>
 <br />
 
